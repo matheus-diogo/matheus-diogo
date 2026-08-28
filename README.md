@@ -7,7 +7,7 @@ Tenho como objetivo adquirir experiências e mais competências relacionadas aos
 ## Competências
 
 - Conhecimento em linguagens de programação como R, Python, SQL e Bash (Linux);
-- Visualização de dados com dashboards com o PowerBI e o Shiny;
+- Visualização de dados com dashboards com o Power BI e o Shiny;
 - Noções de bancos de dados com SGBDs relacionais como PostgreSQL e MySQL;
 - Utilização de ferramentas auxiliares tal qual Git, Jupyter Notebook, Quarto e LaTeX;
 - Domínio da suíte de escritório com Excel, Word e PowerPoint.
