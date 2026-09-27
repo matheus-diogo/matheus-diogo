@@ -2,7 +2,7 @@
 
 Sou universitário em formação da primeira graduação, desenvolvendo competências em métodos estatísticos e de programação para resolução de problemas quantitativos. Tenho experiência acadêmica no desenvolvimento de relatórios técnicos e na utilização de R e Python para manipulação, análise e visualização de dados.
 
-Tenho como objetivo adquirir experiências e mais competências relacionadas aos conhecimentos da minha formação para aperfeiçoar-me profissionalmente. Então busco diversas áreas de conhecimento, como ciência de dados, bioestatística, finanças quantitativas e pesquisa de mercado.
+Tenho como objetivo adquirir experiências e mais competências relacionadas aos conhecimentos da minha formação para aperfeiçoar-me profissionalmente. Então busco diversas áreas de conhecimento, como ciência de dados, bioestatística, finanças quantitativas e inteligência de mercado.
 
 ## Competências
 
